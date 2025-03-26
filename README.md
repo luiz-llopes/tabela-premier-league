@@ -1,24 +1,39 @@
-?? Tabela Premier League
-Este projeto exibe a tabela de classificação da Premier League de forma estilizada, destacando as diferentes zonas da tabela, como classificação para competições europeias e rebaixamento.
-?? Tecnologias Utilizadas
-* HTML: Estrutura da página.
-* CSS: Estilização da tabela.
-?? Captura de Tela
+# Tabela Premier League
 
-?? Como Executar o Projeto
-1. Clone o repositório:
-2. git clone https://github.com/seu-usuario/seu-repositorio.git
-3. Acesse a pasta do projeto:
-4. cd nome-do-repositorio
-5. Abra o arquivo index.html no navegador.
-?? Personalização
-* Para modificar as cores e estilos, edite o arquivo style.css.
-* O arquivo HTML contém as classes CSS para categorizar os times por posição na tabela.
-?? Classificação e Cores
-* Champions League ?? (Azul)
-* Europa League ?? (Azul claro)
-* Conference League ?? (Verde escuro)
-* Meio da Tabela ? (Cinza)
-* Rebaixamento ?? (Vermelho)
+Este projeto exibe a tabela de classificaÃ§Ã£o da Premier League de forma estilizada, destacando as diferentes zonas da tabela, como classificaÃ§Ã£o para competiÃ§Ãµes europeias e rebaixamento.
+
+## Tecnologias Utilizadas
+
+- HTML: Estrutura da pÃ¡gina.
+- CSS: EstilizaÃ§Ã£o da tabela.
+
+## Captura de Tela
 
 
+
+## Como Executar o Projeto
+
+1. Clone o repositÃ³rio:
+   ```sh
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
+2. Acesse a pasta do projeto:
+   ```sh
+   cd nome-do-repositorio
+   ```
+3. Abra o arquivo `index.html` no navegador.
+
+## PersonalizaÃ§Ã£o
+
+- Para modificar as cores e estilos, edite o arquivo `style.css`.
+- O arquivo HTML contÃ©m as classes CSS para categorizar os times por posiÃ§Ã£o na tabela.
+
+## ClassificaÃ§Ã£o e Cores
+
+- Champions League: Azul
+- Europa League: Azul claro
+- Conference League: Verde escuro
+- Meio da Tabela: Cinza
+- Rebaixamento: Vermelho
+
+##
