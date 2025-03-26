@@ -1,0 +1,36 @@
+H1{
+    text-align: center;
+}
+table{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    box-shadow:0 4px 8px rgba(0,0,0,0.1) ;
+    text-align: center;
+}
+th, td {
+    padding: 12px;
+    border: 1px solid #ccc;}
+
+.chapions-league{
+    color: blue;
+} 
+.europa-league{
+    color:aqua;
+} 
+.conference-league{
+    color:darkgreen;
+}  
+.meio-tabela{
+    color: rgb(108, 112, 112);
+}
+.rebaixado{
+    color: red;
+}
+.cinza{
+    background-color:rgb(228, 232, 232) ;
+}
+th{
+    color:rgb(133, 139, 139)  ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
